@@ -9,9 +9,15 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
