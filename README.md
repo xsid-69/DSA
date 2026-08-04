@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xsid-69/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
