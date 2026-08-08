@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xsid-69/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/xsid-69/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xsid-69/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -47,4 +48,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 <!---LeetCode Topics End-->
