@@ -14,6 +14,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/xsid-69/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -30,6 +31,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -49,4 +51,8 @@
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
