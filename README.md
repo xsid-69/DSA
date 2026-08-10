@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xsid-69/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/xsid-69/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/xsid-69/DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/xsid-69/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
