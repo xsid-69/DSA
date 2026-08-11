@@ -20,6 +20,7 @@
 | [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/xsid-69/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/xsid-69/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/xsid-69/DSA/tree/main/0053-maximum-subarray/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/xsid-69/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 <!---LeetCode Topics End-->
