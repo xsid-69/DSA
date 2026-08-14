@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/xsid-69/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/xsid-69/DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0605-can-place-flowers](https://github.com/xsid-69/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/xsid-69/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/xsid-69/DSA/tree/main/0724-find-pivot-index/) | Easy |
@@ -40,6 +41,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
@@ -53,6 +55,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
@@ -76,4 +79,12 @@
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/xsid-69/DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/xsid-69/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
