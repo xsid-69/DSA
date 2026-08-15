@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/xsid-69/DSA/tree/main/0029-divide-two-integers/) | Medium |
 | [1952-three-divisors](https://github.com/xsid-69/DSA/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/xsid-69/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -87,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/xsid-69/DSA/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
