@@ -71,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/xsid-69/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
