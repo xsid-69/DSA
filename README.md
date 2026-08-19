@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/xsid-69/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/xsid-69/DSA/tree/main/0075-sort-colors/) | Medium |
+| [0443-string-compression](https://github.com/xsid-69/DSA/tree/main/0443-string-compression/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/xsid-69/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/xsid-69/DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsid-69/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -71,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0443-string-compression](https://github.com/xsid-69/DSA/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
