@@ -17,6 +17,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xsid-69/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsid-69/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsid-69/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -104,6 +106,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/xsid-69/DSA/tree/main/0029-divide-two-integers/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +127,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/xsid-69/DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 <!---LeetCode Topics End-->
