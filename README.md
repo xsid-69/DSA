@@ -29,6 +29,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/xsid-69/DSA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2600-k-items-with-the-maximum-sum](https://github.com/xsid-69/DSA/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/xsid-69/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
 |  |
 | ------- |
