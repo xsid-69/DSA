@@ -19,6 +19,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/xsid-69/DSA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/xsid-69/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/xsid-69/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | [0013-roman-to-integer](https://github.com/xsid-69/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsid-69/DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/xsid-69/DSA/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/xsid-69/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/xsid-69/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 |  |
